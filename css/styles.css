@@ -1,3 +1,25 @@
 h1{
     color: rgb(7, 76, 133);
+    padding-right:25px
 }
+
+.favourites{
+    background-color: azure;
+    padding: 15px;
+    margin-top: 20px;
+    font-size: 25px;
+}
+
+img{
+   width: 250px;
+   border-radius: 8px;
+   margin-bottom: 20px;
+}
+
+.introduction{
+    background-color: aquamarine;
+    border-radius: 8px;
+    padding: 25px;
+}
+
+
